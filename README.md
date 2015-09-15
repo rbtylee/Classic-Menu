@@ -1,6 +1,5 @@
 # Classic-Menu
 
-**COMING SOON**
 
 This is a simple module I created for the Bodhi Linux's e17 fork, Moksha.
 
@@ -18,7 +17,7 @@ make
 sudo make install
 ```
 
-See the INSTALL file for more complete instructions.
+See the INSTALL file for more complete instructions. Bodhi Users coming soon to the repos :)
 
 Requires:
 - [Moksha](https://github.com/JeffHoogland/moksha)
