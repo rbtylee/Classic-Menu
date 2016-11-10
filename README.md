@@ -7,7 +7,7 @@ The module restores the e17's Desktop and Windows menus in Moksha's main menu.
 
 have fun :)
 
-![alt text](http://i.imgur.com/aZJfh0F.png "Classic Menu")
+![alt text](http://i.imgur.com/0QguUFM.png "Classic Menu")
 
 Installation:
 
