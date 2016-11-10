@@ -11,13 +11,20 @@ have fun :)
 
 Installation:
 
+Bodhi 4.x users can install from Bodhi's repos:
+
+```bash
+sudo apt-get install moksha-classicmenu
+```
+Other users need to compile:
+
 ```bash
 ./autogen.sh
 make
 sudo make install
 ```
 
-See the INSTALL file for more complete instructions. Bodhi Users coming soon to the repos :)
+See the INSTALL file for more complete instructions.
 
 Requires:
 - [Moksha](https://github.com/JeffHoogland/moksha)
