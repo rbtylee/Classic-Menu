@@ -1,5 +1,5 @@
 # Classic-Menu
-
+[![License](http://img.shields.io/badge/license-GPLv3-blue.svg?colorB=9977bb&style=plastic)](https://github.com/rbtylee/Classic-Menu/blob/master/LICENSE)
 
 This is a simple module I created for the Bodhi Linux's e17 fork, Moksha.
 
