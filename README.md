@@ -33,7 +33,7 @@ Requires:
 - Localization
 
 License:
-- [GNU general public license,v3] (http://www.gnu.org/licenses/gpl-3.0.en.html)
+- [GNU general public license,v3](http://www.gnu.org/licenses/gpl-3.0.en.html)
 
 Credits:
 - [Robert Wiley](https://github.com/rbtylee)
