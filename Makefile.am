@@ -7,13 +7,20 @@ MAINTAINERCLEANFILES = Makefile.in aclocal.m4 config.guess config.h.in \
 
 SUBDIRS = src
 
+EDJE_FLAGS = -v \
+	         -id $(top_srcdir)
+
 filesdir =  $(datadir)
-files_DATA = module.desktop
+files_DATA = module.desktop e-module-classicmenu.edj
 
 EXTRA_DIST = module.desktop.in \
-	         icon.png
-clean-local:
-	rm -rf module.desktop *~
+	         icon.png \
+	         e-module-classicmenu.edc
 
+%.edj:  %.edc
+	$(EDJE_CC) $(EDJE_FLAGS) $< $@
+
+clean-local:
+	rm -rf e-module-classicmenu.edj module.desktop *~
 uninstall:
 	rm -rf $(DESTDIR)$(datadir)
