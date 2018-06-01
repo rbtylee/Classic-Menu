@@ -1,6 +1,9 @@
 # Classic-Menu
 [![License](http://img.shields.io/badge/license-GPLv3-blue.svg?colorB=9977bb&style=plastic)](https://github.com/rbtylee/Classic-Menu/blob/master/LICENSE)
 
+Note: This Module has been merged back into Moksha 3.0. And further if any 
+development will be taking place there.
+
 This is a simple module I created for the Bodhi Linux's e17 fork, Moksha.
 
 The module restores the e17's Desktop and Windows menus in Moksha's main menu.
